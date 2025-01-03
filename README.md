@@ -72,6 +72,4 @@ Follow these steps to set up the project on your local machine:
 
 Contributions are welcome! Feel free to submit pull requests. For major changes, please open an issue to discuss before making modifications.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
